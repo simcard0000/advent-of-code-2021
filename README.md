@@ -9,7 +9,7 @@ All solutions are held as their own functions in one large py file; if you want 
 ## Problems
 | Day | Problem Statement                                          | Completion  | Function Name |           Input           | A: Solution | B: Solution | 
 | --- | ---------------------------------------------------------- | ----------- | ------------- | ------------------------- | ----------- | ----------- |
-|  1  | [Sonar Sweep](https://adventofcode.com/2021/day/1)         |⚠            | day1A/day1A  | [day1input]                |             |             |
+|  1  | [Sonar Sweep](https://adventofcode.com/2021/day/1)         |⚠            | day1A/day1B  | [day1input]                |             |             |
 |  2  | [Dive!](https://adventofcode.com/2021/day/2)               |⚠            | day2A/day2B  | [day2input]                |             |             | 
 |  3  | [Binary Diagnostic](https://adventofcode.com/2021/day/3)   |⚠            | day3A/day3B  | [day3input]                |             |             |
 |  4  | [Giant Squid](https://adventofcode.com/2021/day/4)         |⚠            | day4A/day4B  | [day4input]                |             |             |
