@@ -1,10 +1,9 @@
-
 ![active development](https://img.shields.io/badge/active%20dev-yes-brightgreen.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simcard0000/advent-of-code-2021.svg)
 # advent-of-code-2021
 ⛄ My solutions to Advent of Code 2021 problems! 
 
-All solutions are held as their own functions in one large py file; if you want to try out a specific function out uncomment the respective function call! The solutions aren't necessarily the most optimized/efficient/condensed.
+All solutions are held as their own functions in one large py file; if you want to try out a specific function uncomment the respective function call! The solutions aren't necessarily the most optimized/efficient/condensed.
 
 ## Problems
 | Day | Problem Statement                                          | Completion  | Function Name |           Input           | A: Solution | B: Solution | 
